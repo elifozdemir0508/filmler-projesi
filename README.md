@@ -5,6 +5,10 @@ https://www.kaggle.com/datasets/samruddhim/imdb-movies-analysis
 
   -kullandığım dil python
   -kullandığım kütüphaneler:  pandas, numpy, matplotlib
+  kurulum: 
+ ```bash
+pip install -r requirements.txt 
+
 
   -veri setini okudum.
   -verilerin ilk beş i ile incelemesini yaptım
